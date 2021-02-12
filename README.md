@@ -37,10 +37,16 @@ redis-cli info stats
 redis-cli info server
 ```
 
-### RQ (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry. It can be integrated in your web stack easily.
+### RQ [Redis Queue](https://python-rq.org/) is a simple Python library for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry. It can be integrated in your web stack easily.
 
 ```
 https://python-rq.org/
+```
+
+### GO  [Lightweight queue based on golang and redis](https://developpaper.com/lightweight-queue-based-on-golang-and-redis/)
+
+```
+https://developpaper.com/lightweight-queue-based-on-golang-and-redis/
 ```
 
 (c). Copyright 2021, Ray C Horn, All Rights Reserved.
