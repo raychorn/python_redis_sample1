@@ -7,6 +7,9 @@
 - [Usage](#usage)
 - [RQ](#RQ)
 - [GO](#GO)
+- [GO-RMQ](#GO-RMQ)
+- [go-redis-queue](#go-redis-queue)
+- [go-bee-queue](#go-bee-queue)
 - [Prerequisites](#Prerequisites)
 
 ## About <a name = "about"></a>
@@ -45,17 +48,25 @@ redis-cli info server
 https://python-rq.org/
 ```
 
-### GO  [Lightweight queue based on golang and redis](https://developpaper.com/lightweight-queue-based-on-golang-and-redis/) <a name = "GO"></a>
+### GO <a name = "GO"></a> 
+
+[Lightweight queue based on golang and redis](https://developpaper.com/lightweight-queue-based-on-golang-and-redis/)
 
 ```
 https://developpaper.com/lightweight-queue-based-on-golang-and-redis/
 ```
 
-#### GO [RMQ](https://github.com/adjust/rmq)
+#### GO <a name = "GO-RMQ"></a>
 
-#### GO [go-redis-queue](https://github.com/AgileBits/go-redis-queue)
+[RMQ](https://github.com/adjust/rmq)
 
-##### GO non-redis [bee-queue](https://github.com/bee-queue/bee-queue)
+#### GO <a name = "go-redis-queue"></a>
+
+[go-redis-queue](https://github.com/AgileBits/go-redis-queue)
+
+##### GO non-redis <a name = "go-bee-queue"></a>
+
+[bee-queue](https://github.com/bee-queue/bee-queue)
 
 ## Redis Pub/Sub
 
