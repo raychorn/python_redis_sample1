@@ -7,3 +7,4 @@ redis==3.5.3
 requests==2.25.1
 rq==1.7.0
 urllib3==1.26.3
+walrus==0.8.1
