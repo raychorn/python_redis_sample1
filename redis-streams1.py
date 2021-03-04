@@ -8,6 +8,8 @@ from queue import Queue, Empty
 
 redis = redis.Redis(host='localhost')
 
+print(redis.execute_command('INFO')['redis_version'])
+
 stream_name = 'mystream'
 
 control_channel = Queue()
