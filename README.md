@@ -76,5 +76,10 @@ https://developpaper.com/lightweight-queue-based-on-golang-and-redis/
 
 [redis-pubsub-and-message-queueing](https://stackoverflow.com/questions/27745842/redis-pubsub-and-message-queueing)
 
+## Amazon ECR
+
+[install-cliv2-linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html)
+
+[pstools-getting-set-up-windows](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-getting-set-up-windows.html)
 
 (c). Copyright 2021, Ray C Horn, All Rights Reserved.
